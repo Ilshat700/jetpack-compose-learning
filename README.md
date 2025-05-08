@@ -1,4 +1,4 @@
-<details> <summary>Разверни, чтобы скопировать код</summary>
+
 
 # 📘 План изучения Jetpack Compose
 
@@ -56,4 +56,3 @@
 - [ ] Загрузка приложения на Google Play или AppGallery
 
 
-</details>
